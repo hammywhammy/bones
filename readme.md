@@ -7,6 +7,7 @@
   * html
   * css
   * flexbox
+  * looking at it
 
 ## editor
 
@@ -25,3 +26,6 @@ We are also using [border box](https://www.paulirish.com/2012/box-sizing-border-
 ## flexbox
 
 We are using flexbox for layout. To learn a lot more check out [css flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+
+## looking at it
+To open this, just open a web browser, and click on index.html. Everything is in there and linked. After completing the course I linked this should be really easy.
